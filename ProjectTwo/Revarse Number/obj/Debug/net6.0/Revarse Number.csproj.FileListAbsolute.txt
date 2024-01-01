@@ -1,0 +1,15 @@
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\bin\Debug\net6.0\Revarse Number.exe
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\bin\Debug\net6.0\Revarse Number.deps.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\bin\Debug\net6.0\Revarse Number.runtimeconfig.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\bin\Debug\net6.0\Revarse Number.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\bin\Debug\net6.0\Revarse Number.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.csproj.AssemblyReference.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.AssemblyInfoInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.AssemblyInfo.cs
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.csproj.CoreCompileInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\refint\Revarse Number.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\Revarse Number.genruntimeconfig.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectTwo\ProjectTwo\Revarse Number\obj\Debug\net6.0\ref\Revarse Number.dll
